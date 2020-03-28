@@ -1,0 +1,16 @@
+cd a la carpeta
+cd D:
+cd Archivos
+cd Andre
+cd 6tosemestre
+cd node
+cd github_yo
+
+git add .
+git status
+git log
+
+git commit -m "Primer commit"
+git log
+
+
