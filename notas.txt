@@ -13,4 +13,8 @@ git log
 git commit -m "Primer commit"
 git log
 
+git branch login
+git checkout login
+
+
 
